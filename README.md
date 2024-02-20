@@ -7,6 +7,9 @@
 
 This project involves building an Artificial Neural Network (ANN) for predicting customer churn. The dataset used contains various customer attributes, and the ANN is trained to predict whether a customer is likely to leave the bank.
 
+![1698802120424](https://github.com/vishal815/Customer-Churn-Prediction-using-Artificial-Neural-Network/assets/83393190/a7c7acbd-df24-4877-b4d4-7dc3ab0a5da6)
+
+
 ## Files
 
 - **artificial_neural_network(Customer Churn Prediction).ipynb**: Jupyter Notebook containing the code for data preprocessing, model building, training, and evaluation.
@@ -33,3 +36,12 @@ An example is provided where the model predicts whether a customer with specific
 1. Ensure input values are formatted as a double pair of square brackets for predictions.
 2. For categorical variables, use one-hot encoding, and be careful about the order of columns.
 
+### Option 1: Google Colab
+
+1. Open the Jupyter Notebook in Google Colab by clicking on [artificial_neural_network(Customer_Churn_Prediction).ipynb](https://colab.research.google.com/github/vishal815/Customer-Churn-Prediction-using-Artificial-Neural-Network/blob/main/artificial_neural_network(Customer_Churn_Prediction).ipynb).
+
+2. Execute each cell in order.
+
+### Option 2: Local Environment
+
+1. Download the Jupyter Notebook [artificial_neural_network(Customer_Churn_Prediction).ipynb](https://github.com/vishal815/Customer-Churn-Prediction-using-Artificial-Neural-Network/blob/main/artificial_neural_network(Customer_Churn_Prediction).ipynb) and open it in a Jupyter Notebook environment with the required dependencies.
