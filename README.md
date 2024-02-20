@@ -1,4 +1,3 @@
-Certainly! Based on the provided information, you can create a README file for your GitHub project. Below is a template you can use:
 
 ---
 
